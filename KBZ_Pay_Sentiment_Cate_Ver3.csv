@@ -1,0 +1,26 @@
+﻿Row Labels,Average of Rating,Count of Sentiment_Category
+Negative,1.62,50
+Neutral,4.206349206,441
+Positive,4.733399405,1009
+(blank),,
+Grand Total,4.474666667,1500
+,,
+,,
+,,
+,,
+Row Labels,Average of Rating,Count of Device Type
+Phone,4.472929936,1256
+Tablet,4.483606557,244
+(blank),,
+Grand Total,4.474666667,1500
+,,
+,,
+,,
+Row Labels,Average of Rating,Count of Date_Interval
+0,5,7
+1,4.501960784,510
+2,4.483950617,405
+3,4.459143969,514
+4,4.265625,64
+(blank),,
+Grand Total,4.474666667,1500
